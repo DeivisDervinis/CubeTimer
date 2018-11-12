@@ -1,0 +1,4 @@
+﻿  stdafx.cpp
+  CubeTimer.cpp
+d:\visualstudiorepos\cubetimer\cubetimer\cubetimer.cpp(155): error C4716: 'displayUser': must return a value
+d:\visualstudiorepos\cubetimer\cubetimer\cubetimer.cpp(149): error C4716: 'createUser': must return a value
